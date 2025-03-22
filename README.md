@@ -38,7 +38,7 @@
 
 ## Overview
 
-![screenshot](resources\help.png)
+![screenshot](resources/help.png)
 
 ### What I learned
 
